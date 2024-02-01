@@ -1,0 +1,180 @@
+Попытка 1: Barbie
+Попытка 2: Bionicle
+Попытка 3: Bionicle
+Попытка 4: Car
+Попытка 5: Barbie
+Попытка 6: Smesharik
+Попытка 7: Smesharik
+Попытка 8: Smesharik
+Попытка 9: Bionicle
+Попытка 10: Bionicle
+
+Оставшиеся игрушки:
+Smesharik: 1
+Barbie: 4
+Bionicle: 0
+Lego: 2
+Car: 3
+
+Попытка 1: Barbie
+Попытка 2: Car
+Попытка 3: Car
+Попытка 4: Barbie
+Попытка 5: Bionicle
+Попытка 6: Bionicle
+Попытка 7: Barbie
+Попытка 8: Barbie
+Попытка 9: Car
+Попытка 10: Bionicle
+
+Оставшиеся игрушки:
+Smesharik: 4
+Barbie: 2
+Bionicle: 1
+Lego: 2
+Car: 1
+
+Попытка 1: Bionicle
+Попытка 2: Barbie
+Попытка 3: Car
+Попытка 4: Bionicle
+Попытка 5: Barbie
+Попытка 6: Barbie
+Попытка 7: Smesharik
+Попытка 8: Bionicle
+Попытка 9: Smesharik
+Попытка 10: Car
+
+Оставшиеся игрушки:
+Smesharik: 2
+Barbie: 3
+Bionicle: 1
+Lego: 2
+Car: 2
+
+Попытка 1: Car
+Попытка 2: Bionicle
+Попытка 3: Smesharik
+Попытка 4: Car
+Попытка 5: Car
+Попытка 6: Barbie
+Попытка 7: Lego
+Попытка 8: Barbie
+Попытка 9: Car
+Попытка 10: Barbie
+
+Оставшиеся игрушки:
+Smesharik: 3
+Barbie: 3
+Bionicle: 3
+Lego: 1
+Car: 0
+
+Попытка 1: Bionicle
+Попытка 2: Car
+Попытка 3: Smesharik
+Попытка 4: Smesharik
+Попытка 5: Lego
+Попытка 6: Smesharik
+Попытка 7: Lego
+Попытка 8: Car
+Попытка 9: Bionicle
+Попытка 10: Barbie
+
+Оставшиеся игрушки:
+Smesharik: 1
+Barbie: 5
+Bionicle: 2
+Lego: 0
+Car: 2
+
+Попытка 1: Lego
+Попытка 2: Smesharik
+Попытка 3: Bionicle
+Попытка 4: Barbie
+Попытка 5: Car
+Попытка 6: Barbie
+Попытка 7: Car
+Попытка 8: Barbie
+Попытка 9: Lego
+Попытка 10: Car
+
+Оставшиеся игрушки:
+Smesharik: 3
+Barbie: 3
+Bionicle: 3
+Lego: 0
+Car: 1
+
+Попытка 1: Smesharik
+Попытка 2: Smesharik
+Попытка 3: Bionicle
+Попытка 4: Bionicle
+Попытка 5: Smesharik
+Попытка 6: Barbie
+Попытка 7: Barbie
+Попытка 8: Barbie
+Попытка 9: Barbie
+Попытка 10: Bionicle
+
+Оставшиеся игрушки:
+Smesharik: 1
+Barbie: 2
+Bionicle: 1
+Lego: 2
+Car: 4
+
+Попытка 1: Smesharik
+Попытка 2: Barbie
+Попытка 3: Smesharik
+Попытка 4: Lego
+Попытка 5: Barbie
+Попытка 6: Bionicle
+Попытка 7: Barbie
+Попытка 8: Barbie
+Попытка 9: Car
+Попытка 10: Barbie
+
+Оставшиеся игрушки:
+Smesharik: 2
+Barbie: 1
+Bionicle: 3
+Lego: 1
+Car: 3
+
+Попытка 1: Smesharik
+Попытка 2: Barbie
+Попытка 3: Smesharik
+Попытка 4: Bionicle
+Попытка 5: Lego
+Попытка 6: Bionicle
+Попытка 7: Smesharik
+Попытка 8: Car
+Попытка 9: Barbie
+Попытка 10: Car
+
+Оставшиеся игрушки:
+Smesharik: 1
+Barbie: 4
+Bionicle: 2
+Lego: 1
+Car: 2
+
+Попытка 1: Car
+Попытка 2: Smesharik
+Попытка 3: Car
+Попытка 4: Bionicle
+Попытка 5: Lego
+Попытка 6: Smesharik
+Попытка 7: Barbie
+Попытка 8: Bionicle
+Попытка 9: Car
+Попытка 10: Barbie
+
+Оставшиеся игрушки:
+Smesharik: 2
+Barbie: 4
+Bionicle: 2
+Lego: 1
+Car: 1
+
